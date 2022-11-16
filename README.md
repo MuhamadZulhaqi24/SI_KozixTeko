@@ -1,1 +1,1 @@
-# SI_KozixTeko
+# Sistem Informasi Kozi x Teko
