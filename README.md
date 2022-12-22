@@ -1,1 +1,1 @@
-# Sistem Informasi Kozi x Teko
+# Sistem Informasi kedai Teko
