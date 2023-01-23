@@ -343,8 +343,8 @@ echo '<option value="'.$no++.'">'.$noo++.'.'.$querynama["nama"].'</option>';
          <select class="form-control" name="sumber">
 		 <option value="1" >1. Penjualan Kopi</option>
 		 <option value="2" >2. Penjualan Teh</option>
-		 <option value="3" >3. Penjualan Non Coffee</option>
-		 <option value="4" >4. Penjualan Makanan</option>
+		 <option value="3" >3. Penjualan non-kopi</option>
+		 <option value="4" >4. Penjualan Makanan Berat</option>
 		 <option value="5" >5. Penjualan Snack</option>
 		 </select>
         </div>
